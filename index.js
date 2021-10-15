@@ -15,6 +15,10 @@ app.get('/socket',(req,res)=>{
     res.sendFile(__dirname + '/index.html');
 });
 
+app.get('/messages',(req,res)=>{
+  res.send(messages);
+});
+
 io.on('connection', (socket) => {
     console.log('a user connected');
     socket.on('disconnect', () => {
