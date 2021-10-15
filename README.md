@@ -10,6 +10,12 @@ Deze opdracht werken jullie uit per 4. Iedereen doet 1 van de volgende opdrachte
 * De api endpoint geeft een lijst terug van alle verstuurde messages
 * De readme behoort de endpoints en acties mogelijk te beschrijven
 
+## Documentatie
+
+* http://127.0.0.1:3000 geeft "Hello World"
+* /socket geeft index.html
+* /messages toont de berichten
+
 ## Let op volgende zaken
 
 * iedereen werkt op een eigen branch
