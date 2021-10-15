@@ -1,0 +1,23 @@
+{
+  "name": "request-to-pull-team-confused",
+  "version": "1.0.0",
+  "description": "Deze opdracht werken jullie uit per 4. Iedereen doet 1 van de volgende opdrachten:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EHB-MCT/request-to-pull-team-confused.git"
+  },
+  "author": "Team Confused",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EHB-MCT/request-to-pull-team-confused/issues"
+  },
+  "homepage": "https://github.com/EHB-MCT/request-to-pull-team-confused#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.0"
+  }
+}
